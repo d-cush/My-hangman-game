@@ -32,7 +32,7 @@ Game Rules
 
 2. Each incorrect guess reduces the remaining guesses by 1 and adds a part to the Hangman figure.
 
-3.		If you guess the word before the figure is completed, you win!
+3.  If you guess the word before the figure is completed, you win!
 
 4.	if you run out of guesses and the guy is drawn you loose and the word is revealed 
 
